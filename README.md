@@ -1,2 +1,2 @@
 # learning-for-sure
-learning
+learning.
